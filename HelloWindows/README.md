@@ -35,5 +35,12 @@ In the Add New Item dialog box, select C++ File (.cpp). In the Name box, type a 
 Step 8: \
 Now add code given in the repo folder [link](https://github.com/yashraut41/opengl-demos-windows/blob/main/HelloWindows/Source.cpp) 
 
-Step 9: \ 
-Build the code and 
+Step 9: \
+On the Build menu, choose Build Solution. The results of the compilation appear in the Output window in Visual Studio.
+
+![STEP 9](https://learn.microsoft.com/en-us/cpp/build/media/desktop-app-project-build-150.gif)
+
+Step 10: \
+To run the application, press F5. A window should appear.
+
+![Screenshot 2024-12-15 175857](https://github.com/user-attachments/assets/f8691feb-339d-4cd0-b271-4a96dfc1fba5)
