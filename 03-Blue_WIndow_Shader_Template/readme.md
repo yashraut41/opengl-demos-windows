@@ -33,8 +33,8 @@ In the Add New Item dialog box, select C++ File (.cpp). In the Name box, type a 
 ![Step 7](https://learn.microsoft.com/en-us/cpp/build/media/desktop-app-add-cpp-file-153.png)
 
 Step 8: \
-Now add code given in the repo folder [link](https://github.com/yashraut41/opengl-demos-windows/blob/main/BlueWindow/BlueWindow.cpp) 
-
+Now add code given in the repo folder [link](https://github.com/yashraut41/opengl-demos-windows/blob/main/03-Blue_WIndow_Shader_Template/BlueWindowShader.cpp) 
+                                             
 Step 9: \ 
 Need to add glew library for that Get Binaries ( .Dll And .Lib ) And Headers ( .h ) From [here](https://glew.sourceforge.net/index.html)
 
