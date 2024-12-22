@@ -56,7 +56,8 @@ In A Win32 Project > In Visual Studio > Solution Explorer > Right Click On Proje
 
 
 Step 11: \ 
-Build the code and click debug -> start debugging you will see blue window like this 
+Build the code and click debug -> start debugging or press F5. you will see blue window like this 
 
-![Step 11](https://raw.githubusercontent.com/yashraut41/opengl-demos-windows/refs/heads/main/BlueWindow/image.png)
+![Screenshot 2024-12-22 172459](https://github.com/user-attachments/assets/7a00170e-3198-435a-a7da-0d1f2cc794ea)
+
 
